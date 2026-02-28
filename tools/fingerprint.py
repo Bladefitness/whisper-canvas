@@ -19,7 +19,7 @@ except ImportError:
     subprocess.check_call([sys.executable, "-m", "pip", "install", "Pillow", "-q"])
     from PIL import Image
 
-FINGERPRINT = "WhisperCanvas by Emeka Ajufo | github.com/Bladefitness/whisper-canvas"
+FINGERPRINT = "WhisperCanvas by Dr. Emeka Ajufo | github.com/Bladefitness/whisper-canvas"
 
 def _msg_to_bits(msg):
     enc = msg.encode("utf-8")

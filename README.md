@@ -108,7 +108,7 @@ WhisperCanvas was originally built for clinic owners (chiropractors, PTs, med sp
 
 [CC BY-NC-SA 4.0](LICENSE) — You can share and adapt this work with attribution. Non-commercial use only. See the full license for details.
 
-**Attribution:** WhisperCanvas by Emeka Ajufo
+**Attribution:** WhisperCanvas by Dr. Emeka Ajufo
 
 **Fingerprinting:** All images contain invisible steganographic fingerprints for ownership verification.
 
