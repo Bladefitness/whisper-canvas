@@ -12,6 +12,7 @@ WhisperCanvas is an open-source toolkit for creating professional training prese
 
 | # | Training | Topic | Frames |
 |---|----------|-------|--------|
+| 0 | [How to Use WhisperCanvas](trainings/00-how-to-use-whispercanvas/) | Getting started — from idea to presentation | 8 frames |
 | 1 | [Plug Your Bottlenecks](trainings/01-plug-your-bottlenecks/) | Marketing funnel optimization | 9 frames (8 regular + 1 clinical sidebar) |
 | 2 | [The Knee Is the Victim](trainings/02-knee-is-the-victim/) | Kinetic chain dysfunction & knee pain | 8 frames (7 regular + 1 clinical sidebar) |
 
@@ -58,7 +59,7 @@ cd whisper-canvas
 Install the [Excalidraw extension](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor), then open any `.excalidraw` file.
 
 ### 3. Explore the examples
-Open `trainings/01-plug-your-bottlenecks/canvas.excalidraw` to see a complete training presentation with AI-generated 3D infographics.
+Start with `trainings/00-how-to-use-whispercanvas/canvas.excalidraw` for the onboarding guide, then open `trainings/01-plug-your-bottlenecks/canvas.excalidraw` to see a full training with AI-generated 3D infographics.
 
 ### 4. Create your own
 Follow the [Generating Visuals](guides/generating-visuals.md) guide to create images with your free Gemini API key, then use the [Building Canvases](guides/building-canvases.md) guide to assemble them.
