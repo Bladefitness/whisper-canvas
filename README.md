@@ -43,6 +43,7 @@ Each training includes:
 
 | Tool | Description |
 |------|-------------|
+| [Generate](tools/generate.py) | Full pipeline — images, fingerprint, canvas, HTML in one command |
 | [Fingerprint](tools/fingerprint.py) | Steganographic image fingerprinting (embed/extract ownership proof) |
 
 ---
@@ -62,7 +63,11 @@ Install the [Excalidraw extension](https://marketplace.visualstudio.com/items?it
 Start with `trainings/00-how-to-use-whispercanvas/canvas.excalidraw` for the onboarding guide, then open `trainings/01-plug-your-bottlenecks/canvas.excalidraw` to see a full training with AI-generated 3D infographics.
 
 ### 4. Create your own
-Follow the [Generating Visuals](guides/generating-visuals.md) guide to create images with your free Gemini API key, then use the [Building Canvases](guides/building-canvases.md) guide to assemble them.
+
+**With AI assistant (Cursor, VS Code, or Claude Code):**
+Just open the project and say *"Help me create a training on [topic]"*. The `CLAUDE.md` file teaches the assistant the full workflow — it will research, outline, and generate everything with one command.
+
+**Manual:** Follow the [Generating Visuals](guides/generating-visuals.md) guide to create images with your free Gemini API key, then use the [Building Canvases](guides/building-canvases.md) guide to assemble them.
 
 ---
 
